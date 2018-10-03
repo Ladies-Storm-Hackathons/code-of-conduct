@@ -20,7 +20,6 @@ These are the rules/the things this space is not for. We tried to keep them shor
 
 * No [harassment](#appendix-a-definitions), including personal attacks.
 * No spam. If Gmail wouldn't put it in my inbox, it shouldn't be in LSH. This includes doing attention-catching things like writing in all caps, using linkbait headlines, or otherwise editing the post or preview to pop out at the cost of other posts. Posts not relating to hackathons or tech will also be considered spam.
-* No shitposting, bad programmer jokes, or memes.
 * No recruiting for your startup, company, job, or organization. Consider posting in [LSH Jobs/Internships](https://www.facebook.com/groups/LSHJobs/).
 * No illegal/pirated content, requests for it, or information regarding the distribution of it.
 * No telling people they or their post is not welcome in Ladies Storm Hackathons. If you think a post does not belong in HH, [report the post](https://www.facebook.com/help/436113899837980) or message an [admin](#moderators). If you make other people feel unwelcome in LSH, we will remove you from the group.
