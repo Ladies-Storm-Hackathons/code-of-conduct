@@ -89,7 +89,7 @@ LSH is moderated by a team of volunteers, listed below. If you ever have a quest
 
 ## License & Attribution
 
-This Code of Conduct is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). It is heavily inspired by the [Open Code of Conduct](http://todogroup.org/opencodeofconduct/), which itself is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). A huge shout-out to [@folz](https://github.com/folz) for compiling most of this document in his [HH etiquette post](https://medium.com/@folz/hackathon-hackers-etiquette-cbcb9d1cda54), upon which this code of conduct is based. Many of the [guidelines](#guidelines) are taken from Nerdfighters of the Greater DC Area, with others borrowed from Hacker News, and Hackers@Berkeley. We're standing on the shoulders of giants.
+This Code of Conduct is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). It is heavily inspired by the [Open Code of Conduct](http://todogroup.org/opencodeofconduct/), which itself is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Many of the [guidelines](#guidelines) are taken from Hackathon Hackers, Nerdfighters of the Greater DC Area, with others borrowed from Hacker News, and Hackers@Berkeley. We're standing on the shoulders of giants.
 
 ---
 
